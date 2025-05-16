@@ -1,0 +1,23 @@
+// Positive affirmations for focus and productivity
+export const affirmations = [
+  "I am focused and productive right now.",
+  "Every minute I spend focused is an investment in my future.",
+  "I have the power to concentrate deeply on my work.",
+  "I am making progress with each focused minute.",
+  "My mind is clear and ready to tackle this task.",
+  "I am capable of maintaining focus when I need to.",
+  "I choose to be present and engaged with my work.",
+  "I am building my focus muscle with each study session.",
+  "I can accomplish anything I set my mind to.",
+  "My concentration grows stronger every day.",
+  "I am in control of my attention and energy.",
+  "I am proud of myself for making time to focus.",
+  "I am becoming more disciplined with each session.",
+  "My ability to focus is improving every day.",
+  "I am creating positive study habits that will serve me well.",
+  "I deserve this time to focus on what matters.",
+  "I am exactly where I need to be right now.",
+  "My focus leads to meaningful results.",
+  "I am grateful for this opportunity to grow.",
+  "I am making the most of my time right now.",
+];
